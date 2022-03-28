@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+* {
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+
+body {
+    background-image: linear-gradient(to bottom, #424b54 5%, #706d80 );
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-attachment: fixed;
+}
