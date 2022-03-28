@@ -1,0 +1,15 @@
+body {
+    background-color: #4e3a3b;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align-last: center;
+}
+
+#seta {
+    width: 50px;
+    -webkit-transform:rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
