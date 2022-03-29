@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Quicksand:wght@300&display=swap');
+
+body {
+    margin: auto;
+    
+}
+
+h1 {
+    font: bold 3em 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+p {
+    font: 25px 'Quicksand', sans-serif;
+    text-align: justify;
+    padding-inline: 250px;
+}
