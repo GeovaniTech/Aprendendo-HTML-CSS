@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    /*
+    Medidas Absolutas
+    cm, mm, in, px, pt, pc
+    
+    Medidas Relativas
+    em, ex, rem, vw, vh
+    */
+
+    font-size: 25px;
+    font-weight: bold; /*Peso da Fonte*/
+
+    font: normal 2em Cambria; /*Ordem style → weight → size → family*/
+}
+
+h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
