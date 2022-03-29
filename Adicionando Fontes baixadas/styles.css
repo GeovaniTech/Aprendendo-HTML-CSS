@@ -1,0 +1,12 @@
+/*Site para baixar fontes: https://www.dafont.com/pt/*/
+
+@font-face {
+    font-family: 'juse';
+    src: url(Font/josefine.otf) format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'juse';
+}
