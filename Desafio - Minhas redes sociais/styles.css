@@ -3,8 +3,13 @@
     
 }
 
+body {
+    background-color: #07a2a6;
+}
+
 h1 {
     text-align: center;
+    color: #07a2a6;
 }
 
 h2 {
@@ -29,7 +34,7 @@ p {
     height: 150px;
     border-radius: 50%;
     margin-left: 10px;
-    align: center;
+    
 }
 
 #icones {
