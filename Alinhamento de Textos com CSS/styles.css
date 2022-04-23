@@ -1,0 +1,43 @@
+* {
+    margin: auto;
+}
+body {
+    background-color: #525252;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #e6ddbc;
+    background-color: #262525;
+    text-align: center;
+    padding-top: 1.25em;
+    padding-bottom: 1.25em;
+    font: bold 3em verdana; 
+}
+
+h2 {
+    color: white;
+    font-size: 2em;
+    padding-top: 1em;
+}
+
+#primeiro {
+    text-align: center;
+}
+
+#segundo {
+    text-align: right;
+}
+
+#terceiro {
+    text-align: left;
+}
+
+#quarto {
+    text-align: justify;
+}
+
+p {
+    margin: 1em;
+    color: cyan;
+}
